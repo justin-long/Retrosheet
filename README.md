@@ -27,7 +27,7 @@ If this is not the case, then all the .bat files will need modified.
 
 ### Preliminary Steps
 * Download entire repository, and place directly in C:\ directory
-* Download all the needed programs if not already downloaded
+* Download all the needed programs if needed
 * Update aria2c.exe path in data\zipped\get_zip_files.bat (May not be neccessary)
 * Update 7-zip.exe path in data\zipped\get_zip_files.bat (May not be neccessary)
 
