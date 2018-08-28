@@ -18,4 +18,8 @@ I also changed the batch file to download the retrosheet files. Originally the d
 ## Program Modifications
 This program assumes that these folders were copied directly into the C:\ directory, i.e. C:\Retrosheet\...
 
-If this is not the case, then all the .bat files in the data\unzipped folder will need modified.
+If this is not the case, then all the .bat files will need modified.
+
+### General Steps
+
+
