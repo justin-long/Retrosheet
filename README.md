@@ -20,6 +20,6 @@ This program assumes that these folders were copied directly into the C:\ direct
 
 If this is not the case, then all the .bat files will need modified.
 
-### General Steps
+## General Steps
 
 
